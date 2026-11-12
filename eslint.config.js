@@ -17,5 +17,12 @@ export default defineConfig([
       globals: globals.browser,
       parserOptions: { ecmaFeatures: { jsx: true } },
     },
+ 
+  },
+  {
+    files: ["server/**/*.js", "api/**/*.js"],
+    languageOptions: {
+      globals: globals.node,
+    },
   },
 ])
