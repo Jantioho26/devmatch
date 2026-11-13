@@ -1,10 +1,18 @@
 DevMatch is a full-stack developer job-search application built with React, Vite, Tailwind CSS, Node.js, and Express.
 
-React V ^19.3.1
-Vite V 8.3.6
-TailwindCSS V 4.3.5 
-Nodejs 
-Express V 5.3.0
+Technology 
+
+React 			             19.3.1
+React DOM 		           19.3.1
+Vite 			               8.3.6
+TailwindCSS 	           4.3.5
+Tailwind Vite Plugin     4.3.5
+Node.js 
+Express.js               5.3.0
+CORS  		               2.8.6
+ESLint 		               10.14.0
+
+
 
 How to run this project ~ 
 Git clone https://github.com/Jantioho26/devmatch.git 
