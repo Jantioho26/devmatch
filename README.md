@@ -1,16 +1,26 @@
-# React + Vite
+DevMatch is a full-stack developer job-search application built with React, Vite, Tailwind CSS, Node.js, and Express.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React V ^19.3.1
+Vite V 8.3.6
+TailwindCSS V 4.3.5 
+Nodejs 
+Express V 5.3.0
 
-Currently, two official plugins are available:
+How to run this project ~ 
+Git clone https://github.com/Jantioho26/devmatch.git 
+run npm i  
+npm run dev for local host 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+🔄 How the Application Works
+The React frontend requests job listings through /api/jobs.
+Vite forwards development API requests to the Express backend on port 3001.
+Express queries the Himalayas Jobs API.
+The backend filters, formats, and normalizes the returned listings.
+React displays the jobs using reusable JobCard components.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Users can search, filter, and save jobs.
+Saved jobs are stored in the browser's localStorage.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
