@@ -17,6 +17,10 @@ Save and remove jobs using an interactive heart button
 Use the apply now to go to the live job posting 
 
 
+<img width="1259" height="628" alt="Screenshot 2026-11-13 at 4 49 10 PM" src="https://github.com/user-attachments/assets/4aef7021-2f08-474d-8f28-172fe1f0ed0e" />
+
+
+
 
 
 Technology Used 
