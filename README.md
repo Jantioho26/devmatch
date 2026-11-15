@@ -1,4 +1,4 @@
-DevMatch is a full-stack developer job-search application built with React, Vite, Tailwind CSS, Node.js, and Express.
+# DevMatch is a full-stack developer job-search application built with React, Vite, Tailwind CSS, Node.js, and Express.
 
 The application helps developers discover remote job opportunities, search by keyword, filter listings by experience level and employment type, and save positions for later.
 
