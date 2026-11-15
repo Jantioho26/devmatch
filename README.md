@@ -6,7 +6,7 @@ The application helps developers discover remote job opportunities, search by ke
 
 
 
-Features: 
+# Features: 
 
 Search remote developer positions using keywords such as React, Frontend, and Junior.
 
