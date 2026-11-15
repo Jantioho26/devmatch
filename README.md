@@ -6,7 +6,7 @@ The application helps developers discover remote job opportunities, search by ke
 
 
 
-# Features: 
+## Features: 
 
 Search remote developer positions using keywords such as React, Frontend, and Junior.
 
@@ -23,7 +23,7 @@ Use the apply now to go to the live job posting
 
 
 
-Technology Used 
+### Technology Used 
 
 • React   19.3.1 
 
@@ -37,10 +37,10 @@ Technology Used
 
 • CORS 2.8.6
 
+<br /> 
 
 
-
-To run this project: 
+### To run this project: 
 
 git clone https://github.com/Jantioho26/devmatch.git
 
