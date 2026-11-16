@@ -29,31 +29,10 @@ DevMatch is a responsive, full-stack job search application that helps developer
 
 ## How to Run Locally
 
-1. Clone the GitHub repository and navigate to the project folder.
-2. Install frontend dependencies:
 
-   ```bash
-   npm install
-   ```
-
-3. Open a second terminal, navigate to the backend folder, and install dependencies:
-
-   ```bash
-   cd server
-   npm install
-   ```
-
-4. Start the backend server:
-
-   ```bash
-   node index.js
-   ```
-
-5. In the first terminal, start the frontend:
-
-   ```bash
-   npm run dev
-   ```
++ git clone https://github.com/Jantioho26/devmatch.git
++ npm install
++ 
 
 6. Open the local URL displayed in your terminal (typically `http://localhost:5173`).
 
