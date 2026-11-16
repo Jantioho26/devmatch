@@ -1,4 +1,4 @@
-# DevMatch — Developer Job Search Application
+# DevMatch 
 
 DevMatch is a responsive, full-stack job search application that helps developers discover remote job opportunities, filter positions by experience and employment type, and save jobs for later.
 
@@ -36,7 +36,9 @@ DevMatch is a responsive, full-stack job search application that helps developer
 
 <br /> 
 + cd server
-+ npm install 
++ npm install
++ open on localhost:5173
+  
 
 
 
