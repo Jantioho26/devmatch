@@ -32,11 +32,13 @@ DevMatch is a responsive, full-stack job search application that helps developer
 
 + git clone https://github.com/Jantioho26/devmatch.git
 + npm install
-+ 
++ open on localhost:3000
 
-6. Open the local URL displayed in your terminal (typically `http://localhost:5173`).
+<br /> 
++ cd server
++ npm install 
 
-The Express backend runs on port 3001, and Vite proxies API requests to the backend during local development.
+
 
 
 
