@@ -59,7 +59,7 @@ DevMatch is a responsive, full-stack job search application that helps developer
 
 The Express backend runs on port 3001, and Vite proxies API requests to the backend during local development.
 
-<img width="1369" height="578" alt="Screenshot 2026-11-15 at 6 45 31 PM" src="https://github.com/user-attachments/assets/c9368806-aee1-4d7e-adf8-04c84234c806" />
+
 
 
 
